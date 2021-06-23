@@ -15,7 +15,7 @@ Download the repo and move `/colors/codely-theme.vim` to `~/.vim/colors` directo
 
 If you have [vim-plug](https://github.com/junegunn/vim-plug) installed, include this lines in your `.vimrc`:
 
-```
+```vim
 Plug 'codingpotions/codely-vim-theme'
 
 set background=dark
@@ -29,7 +29,7 @@ If the colors are wrong maybe is beacuse this theme requires `vim` to support th
 
 Try to add this line into your `.vimrc`:
 
-```
+```vim
 set termguicolors
 ```
 
