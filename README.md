@@ -1,7 +1,7 @@
 # 🎨 Codely VIM theme port
 
 <p align="center">
-    <img src="" alt="Codely Theme example">
+    <img src="https://raw.githubusercontent.com/codingpotions/codely-vim-theme/master/media/example.png" alt="Codely Theme example"><br>
     <sub>A port of the modern, good-looking, productivity-increaser theme of Codely for VIM</sub>
 </p>
 
